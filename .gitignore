@@ -93,3 +93,9 @@ ENV/
 ### IPythonNotebook ###
 # Temporary data
 .ipynb_checkpoints/
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/reinforcement-learning.iml
+.idea/vcs.xml
+.idea/workspace.xml
